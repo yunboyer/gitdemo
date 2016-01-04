@@ -1,4 +1,4 @@
-%comment 2
+%comment 3
 %this function offsets samples
 function s = getSpikes(sourceDevice, offset)
   readSamples(sourceDevice)
