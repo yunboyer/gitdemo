@@ -4,5 +4,6 @@ function s = getSpikes(sourceDevice, offset)
   readSamples(sourceDevice)
   s = readSamples - offset
   print
-  print 
+  print
+  print
   return
